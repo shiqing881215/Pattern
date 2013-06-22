@@ -1,3 +1,6 @@
+http://www.allapplabs.com/java_design_patterns/java_design_patterns.htm
+wiki - java design pattern
+
 We should take a stop to think about all the design patterns.
 
 For creational patterns, it focuses on how to create new objects.
