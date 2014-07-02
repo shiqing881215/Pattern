@@ -11,4 +11,6 @@ The benefit for this is :
 
 (1) You can add any other concrete factory class very easily later, say oval
 
-(2) With this new abstraction layer, when you add a new factory class, you don't need to chanage the logic interaction with the abstraction layer.
+(2) With this new abstraction layer, when you add a new factory class, you don't need to chanage the logic interaction with the abstraction layer. (This is the most important)
+
+(3) Sometimes, you can also get some common methods from the abstraction factory for free
