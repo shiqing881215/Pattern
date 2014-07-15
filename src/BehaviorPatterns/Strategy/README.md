@@ -1,4 +1,4 @@
-<h1>Stratege Pattern</h1>
+<h1>Strategy Pattern</h1>
 
 Allow you to use different algorithm based on the current context.
 
