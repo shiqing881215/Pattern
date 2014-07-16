@@ -13,3 +13,8 @@ Attach additional functionality to an object dynamically. <br/>
 3. Have an abstract Decorator, which should have an interface type field, and constructor using that field <br/>
 4. Concrete decorators, extends the Decorator, add the featured stuff on the basic feature.<br/>
 5. Instantiate the chain (Important)
+
+<b> The core idea here is to have an abstract decorator class including an interface reference, <br/>
+    which in the runtime, most time is the basic class needed to be decorated. <br/>
+    Then in the concrete sub decorate class, call the super to get this basic feature, then add additianal feature <br/>
+</b>
