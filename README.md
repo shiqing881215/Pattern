@@ -23,10 +23,12 @@ Design Pattern
         - Object.clone
 - Structure Pattern
     - How to organize/structure your object ?
-    - Inheritence / Interface / Abstract Class / Composition
+    - Most pattern here is a combination of Inheritence / Interface / Abstract Class / Composition
     - Adapter
         - Convert from one format into another format
         - Arrays.asList() / List.toArray() / marshall / unmarshall
+    - Facade
+        - Composite a real object inside and call this object to do real things
 - Behavior Pattern
     - How the object interact with each other during runtime
     - Chain of responsibility
