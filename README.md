@@ -41,6 +41,7 @@ Design Pattern
         - Comparator : I want to pass different comparator to my sort alogrithm 
     - Template 
         - Orchestration service : it defines the flow (template) with a lot of abstract methods. Individual object will extends the template and do the implementation 
+        - In SSR, we have the ConetentBuilderConnectorBase as the template, it defines the whole flow, each concrete individual builder extends it and override the abstract method
 
 
 
